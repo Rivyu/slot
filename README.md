@@ -34,9 +34,8 @@ Execute the program using runserver command.
     </head>
 
 <body>
-
 <center>
-    <img src="/static/logo.png" height="100" width="850" alt="Saveetha Logo">
+    <img src="/static/logo.png" height="100" width="800" alt="Saveetha Logo">
     <h3>SLOT TIME TABLE - Rivyudhaa M (26001079)</h3>
     <table border="3" cellpadding="8" cellspacing="1"
        width="620" bgcolor="">
@@ -51,57 +50,61 @@ Execute the program using runserver command.
        </tr>
        <tr>
         <th bgcolor="white">8:00-9:30</th>
-        <td align="center">CA</td>
-        <td align="center">CDS</td>
-        <td rowspan="2" align="center">FREE SLOT</td>
-        <td align="center">PYTHON</td>
-        <td align="center">FREE SLOT</td>
-        <td align="center">FREE SLOT</td>
+        <td>CA</td>
+        <td>CDS</td>
+        <td>FREE SLOT</td>
+        <td>PYTHON</td>
+        <td>FREE SLOT</td>
+        <td>FREE SLOT</td>
        </tr>
        <tr>
         <th bgcolor="pink">9:45-11:15</th>
-        <td align="center">PYTHON</td>
-        <td align="center">FWAD</td>
-        <td align="center">FREE SLOT</td>
-        <td align="center">FWAD</td>
-        <td align="center">ENG</td>
+        <td>PYTHON</td>
+        <td>FWAD</td>
+        <td>FREE SLOT</td>
+        <td>PYTHON</td>
+        <td>FWAD</td>
+        <td>ENG</td>
        </tr>
        <tr>
-        <th bgcolor="white">11:30-12:15</th>
-        <td colspan="3" align="center">SCOFT MENTOR MEET</td>
-        <td align="center">L U N C H</td>
-        <td align="center">SCOFT MENTOR MEET</td>
-        <td align="center">SCOFT MENTOR MEET</td>
+        <th>11:30-12:15</th>
+        <td>SCOFT MENTOR MEET</td>
+        <td>SCOFT MENTOR MEET</td>
+        <td>SCOFT MENTOR MEET</td>
+        <td>L U N C H</td>
+        <td>SCOFT MENTOR MEET</td>
+        <td>SCOFT MENTOR MEET</td>
        </tr>
        <tr>
         <th bgcolor="pink">12:15-1:00</th>
-        <td colspan="3" align="center">L U N C H</td>
-        <td align="center">SCOFT MENTOR MEET</td>
-        <td colspan="center" align="center">L U N C H</td>
-        <td colspan="center" align="center">L U N C H</td>
+        <td>L U N C H</td>
+        <td>L U N C H</td>
+        <td>L U N C H</td>
+        <td>SCOFT MENTOR MEET</td>
+        <td>L U N C H</td>
+        <td>L U N C H</td>
        </tr>
        <tr>
         <th bgcolor="white">1:15-2:44</th>
-        <td align="center">FWAD</td>
-        <td align="center">MAT</td>
-        <td rowspan="2" align="center">FREE SLOT</td>
-        <td align="center">ENG</td>
-        <td align="center">FREE SLOT</td>
-        <td align="center">FREE SLOT</td>
+        <td>FWAD</td>
+        <td>MAT</td>
+        <td>FREE SLOT</td>
+        <td>ENG</td>
+        <td>FREE SLOT</td>
+        <td>FREE SLOT</td>
        </tr>
        <tr>
         <th bgcolor="pink">3:00-4:30</th>
-        <td align="center">MAT</td>
-        <td align="center">PYTHON</td>
-        <td align="center">CA</td>
-        <td align="center">EDM</td>
-        <td align="center">EDM</td>
+        <td>MAT</td>
+        <td>PYTHON</td>
+        <td>FREE SLOT</td>
+        <td>CA</td>
+        <td>EDM</td>
+        <td>EDM</td>
        </tr>
     </table>
-
     <br><br>
-
-    <table border="1" cellpadding="8" width="620">
+    <table border="1" cellpadding="8" width=75%>
         <tr>
             <th>S. No.</th>
             <th>Subject Code</th>
@@ -109,43 +112,43 @@ Execute the program using runserver command.
         </tr>
 
         <tr>
-            <td align="center">1.</td>
-            <td align="center">19CS305</td>
+            <td>1.</td>
+            <td>19CS305</td>
             <td>Computer Architecture (CA)</td>
         </tr>
         <tr>
-            <td align="center">2.</td>
-            <td align="center">19AI301</td>
+            <td>2.</td>
+            <td>19AI301</td>
             <td>Python Programming (PYTHON)</td>
         </tr>
         <tr>
-            <td align="center">3.</td>
-            <td align="center">19AI414</td>
+            <td>3.</td>
+            <td>19AI414</td>
             <td>Fundamentals of Web Application Development (FWAD)</td>
         </tr>
         <tr>
-            <td align="center">4.</td>
-            <td align="center">19MA201</td>
+            <td>4.</td>
+            <td>19MA201</td>
             <td>Calculus and Matrix Algebra (MAT)</td>
         </tr>
         <tr>
-            <td align="center">5.</td>
-            <td align="center">19EY708</td>
+            <td>5.</td>
+            <td>19EY708</td>
             <td>Career Development Skills (CDS)</td>
         </tr>
         <tr>
-            <td align="center">6.</td>
-            <td align="center">19EN101</td>
+            <td>6.</td>
+            <td>19EN101</td>
             <td>Communicative English (ENG)</td>
         </tr>
         <tr>
-            <td align="center">7.</td>
-            <td align="center">19AI302</td>
+            <td>7.</td>
+            <td>19AI302</td>
             <td>Engineering Design and Modelling (EDM)</td>
         </tr>
         <tr>
-            <td align="center">8.</td>
-            <td align="center">E-SCOFT-M</td>
+            <td>8.</td>
+            <td>E-SCOFT-M</td>
             <td>Mentor Meet</td>
         </tr>
     </table>
@@ -156,7 +159,10 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f78936dc-7248-407b-8808-4c6bd2797835" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/caeabc1d-47f5-4931-80d0-4a8edb553bc6" />
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
